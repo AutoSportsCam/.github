@@ -4,15 +4,15 @@ A camera application to relieve the inconvenience of filming sports games in the
 ## Motivation
 1. There are various basketball clubs - University basketball club, social club, etc   
 <div align="center">
-   <img alt="img_2.png" height="300" src="img/motivation_img1.png" width="300"/>
-   <img alt="img_3.png" height="300" src="img/motivation_img2.png" width="400"/>
+   <img alt="img_1.jpg" height="300" src="img/motivation_img1.jpg" width="300"/>
+   <img alt="img_2.jpg" height="300" src="img/motivation_img2.jpg" width="400"/>
 </div>
 
 2. Always manually filming sports events in these clubs
 
 ## Techniques
 Tracking Algorithm, Bluetooth
-<img alt="img.png" height="200" src="img/techniques_img1" width="600"/>
+<img alt="img_3.gif" height="200" src="img/techniques_img1.gif" width="600"/>
 
 ## Main Features
 - Detect the basketball players and shoot the side with a lot of people
