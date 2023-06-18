@@ -4,8 +4,8 @@ A camera application to relieve the inconvenience of filming sports games in the
 ## Motivation
 1. There are various basketball clubs - University basketball club, social club, etc   
 <div align="center">
-   <img alt="img_1.jpg" height="300" src="https://github.com/AutoSportsCam/.github/tree/main/profile/img/motivation_img1" width="300"/>
-   <img alt="img_2.jpg" height="300" src="https://github.com/AutoSportsCam/.github/tree/main/profile/img/motivation_img1" width="300"/>
+   <img alt="img_1.jpg" height="300" src="https://github.com/AutoSportsCam/.github/profile/img/motivation_img1" width="300"/>
+   <img alt="img_2.jpg" height="300" src="https://github.com/AutoSportsCam/.github/profile/img/motivation_img1" width="300"/>
 </div>
 
 2. Always manually filming sports events in these clubs
@@ -14,7 +14,7 @@ A camera application to relieve the inconvenience of filming sports games in the
 - Tracking Algorithm, Bluetooth
     <br>
 <div align="center">
-    <img alt="img_3.gif" height="250" src="https://github.com/AutoSportsCam/.github/tree/main/profile/img/techniques_img1.gif" width="300"/>
+    <img alt="img_3.gif" height="250" src="https://github.com/AutoSportsCam/.github/profile/img/techniques_img1.gif" width="300"/>
 </div>
 
 ## Main Features
