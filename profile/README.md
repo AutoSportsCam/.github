@@ -11,9 +11,11 @@ A camera application to relieve the inconvenience of filming sports games in the
 2. Always manually filming sports events in these clubs
 
 ## Techniques
-Tracking Algorithm, Bluetooth
+- Tracking Algorithm, Bluetooth
     <br>
-<img alt="img_3.gif" height="200" src="img/techniques_img1.gif" width="300"/>
+<div align="center">
+    <img alt="img_3.gif" height="200" src="img/techniques_img1.gif" width="300"/>
+</div>
 
 ## Main Features
 - Detect the basketball players and shoot the side with a lot of people
