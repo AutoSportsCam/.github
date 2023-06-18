@@ -12,7 +12,8 @@ A camera application to relieve the inconvenience of filming sports games in the
 
 ## Techniques
 Tracking Algorithm, Bluetooth
-<img alt="img_3.gif" height="200" src="img/techniques_img1.gif" width="600"/>
+    <br>
+<img alt="img_3.gif" height="200" src="img/techniques_img1.gif" width="300"/>
 
 ## Main Features
 - Detect the basketball players and shoot the side with a lot of people
