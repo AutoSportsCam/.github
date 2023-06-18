@@ -14,7 +14,7 @@ A camera application to relieve the inconvenience of filming sports games in the
 - Tracking Algorithm, Bluetooth
     <br>
 <div align="center">
-    <img alt="img_3.gif" height="250" src="https://github.com/AutoSportsCam/.github/blob/main/profile/img/techniques_img1.gif" width="300"/>
+    <img alt="img_3.gif" height="300" src="https://github.com/AutoSportsCam/.github/blob/main/profile/img/techniques_img1.gif" width="300"/>
 </div>
 
 ## Main Features
