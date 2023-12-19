@@ -28,7 +28,7 @@ A camera application to relieve the inconvenience of filming sports games in the
 ## Using Framework & Library
 
 ### Algorithm
-1. YOLO v6
+1. YOLO v5
 2. Deep SORT
 
 ### App
